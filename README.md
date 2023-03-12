@@ -1,6 +1,6 @@
-# IRGN2511
+# IRGN2578Feedback
 
-The sources of IRGN2511. See [Releases](https://github.com/JLHwung/IRGN2511/releases) for the generated PDF.
+The sources of IRGN2578Feedback. See [Releases](https://github.com/JLHwung/IRGN2578Feedback/releases) for the generated PDF.
 
 ## Build
 
